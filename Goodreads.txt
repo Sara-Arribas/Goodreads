@@ -1,0 +1,11 @@
+Dado el dataset de rating de goodreads (1.1GB) https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m determinar:
+1.- Rating promedio de todos los libros
+2.- Rating promedio de los libros por autor
+3.- Rating promedio de los libros por Publisher
+4.- Número promedio de páginas de todos los libros
+5.- Número promedio de páginas de todos los libros por autor
+5.- Número promedio de páginas de todos los libros por Publisher
+6.- Número promedio de libros publicados por autor
+7.- Ordenar los libros de mayor a menor (Top 15) por número de ratings dados por usuarios (excluir aquellos valores sin rating)
+8.- Obtener Top 5 de ratings más frecuentes otorgados por usuarios
+
